@@ -1,24 +1,9 @@
-# github-profile-summary-cards-example
+## PhlexPlexico
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+Site: [phlexplexi.co](https://phlexplexi.co)  
+Hey there! I'm just a typical software developer from Canada. I usually spend my time in learning new (to me!) technologies and getting enough knowledge to get by. I'm a terrible designer so I just don't get front end frameworks, but that doesn't stop me from learning. I currently work on ERP systems for my job, but enjoy working with CS:GO, APIs, and some small work with 3DS hardware/software.  
+If you would like, feel free to contact me on Twitter, email, or the various socials on my site! I'm always willing to help as much as I can! 🤙
 
-```To create your profile README you need to name the repo as your username```
-
-Then you can use everything in profile-summary-card-output folder
-| :warning: | If your workflow does not generate all cards in output folder, then you need to use [Personal access token](https://docs.github.com/en/actions/configuring-and-managing-workflows/creating-and-storing-encrypted-secrets) instead of GITHUB_TOKEN in workflow. |
-| :-------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
-[Creating a personal access token
-](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token)
-
-[Personal token permissions](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Personal-access-token-permissions)
-
-| :warning: | Don't forget to modify the image path (The correct path is in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
-
-[![](./profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/PhlexPlexico/PhlexPlexico/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
+[![](https://raw.githubusercontent.com/PhlexPlexico/PhlexPlexico/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/PhlexPlexico/PhlexPlexico/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
